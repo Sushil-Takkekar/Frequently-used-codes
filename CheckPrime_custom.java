@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class CheckPrime {
+public class CheckPrime_custom {
 
     public static boolean isPrime(int n) {
         //if no is single digit
